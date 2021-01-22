@@ -1,0 +1,23 @@
+{
+  "name": "positron",
+  "version": "1.0.0",
+  "description": "Plan time and effort",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbetm/positron.git"
+  },
+  "keywords": [],
+  "author": "David Betancourt Montellano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbetm/positron/issues"
+  },
+  "homepage": "https://github.com/dbetm/positron#readme",
+  "devDependencies": {
+    "electron": "^11.2.0"
+  }
+}
